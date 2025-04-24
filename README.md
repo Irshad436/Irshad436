@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irshad Ansari</h1>
 <h3 align="center">"An enthusiastic ECE student exploring the world of VLSI and electronics design."</h3>
-<img src="https://i.ytimg.com/vi/k0NMJpfy2V8/maxresdefault.jpg" alt="">
+<img src="https://i.ytimg.com/vi/k0NMJpfy2V8/maxresdefault.jpg"width="400px" align="right" alt="">
 - 🔭 I’m currently working on **Final Year Project on IoT-based Smart Energy Meter**
 
 - 🌱 I’m currently learning **Verilog, Physical Design tools (like Cadence Innovus), and Embedded C**
